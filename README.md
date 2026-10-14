@@ -48,8 +48,8 @@ I am a Computer Science and Engineering student interested in software engineeri
 <a href="https://github.com/tauqeerahmed0309/reengage-env">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tauqeerahmed0309&repo=reengage-env&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA" width="49%" alt="ReEngage Environment"/>
 </a>
-<a href="https://github.com/tauqeerahmed0309/smart-intersection-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tauqeerahmed0309&repo=smart-intersection-ai&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA" width="49%" alt="Smart Intersection AI"/>
+<a href="https://github.com/tauqeerahmed0309/oceanshield-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tauqeerahmed0309&repo=oceanshield-backend&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA" width="49%" alt="OceanShield AI"/>
 </a>
 
 </div>
