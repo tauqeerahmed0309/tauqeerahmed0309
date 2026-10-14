@@ -1,40 +1,20 @@
- <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 TAUQEER AHMED | GITHUB PROFILE                 -->
-<!--                     PROFESSIONAL EDITION                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+ <div align="center">
 
-<div align="center">
-
-  <!-- Responsive Banner -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,100:1D4ED8&height=240&section=header&text=TAUQEER%20AHMED&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Problem%20Solving&descSize=16&descAlignY=56&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:60A5FA&height=240&section=header&text=TAUQEER%20AHMED&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Problem%20Solving&descSize=16&descAlignY=56&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,100:1D4ED8&height=240&section=header&text=TAUQEER%20AHMED&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Problem%20Solving&descSize=16&descAlignY=56&animation=fadeIn" width="100%" alt="Tauqeer Ahmed — professional navy blue banner"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:2563EB&height=210&section=header&animation=fadeIn"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:60A5FA&height=210&section=header&animation=fadeIn"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:2563EB&height=210&section=header&animation=fadeIn" width="100%" alt="Dark blue header"/>
   </picture>
 
-  <h1>Hey there, I'm Tauqeer Ahmed 👋</h1>
+  # Hey there, I'm Tauqeer Ahmed 👋
 
-  <a href="https://github.com/tauqeerahmed0309">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=CSE+Student+%7C+Software+Developer;Exploring+AI%2FML+%26+Intelligent+Systems;Building+Practical%2C+Scalable+Solutions;Learning+DSA+One+Problem+at+a+Time" alt="Animated professional introduction"/>
-  </a>
+  ### CSE Student · Software Developer · AI/ML Enthusiast
 
-  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+intelligent+solutions;Exploring+AI%2FML;Solving+problems+with+code;Learning+and+building+every+day" alt="Animated introduction"/>
 
-  <a href="https://github.com/tauqeerahmed0309?tab=followers">
-    <img src="https://img.shields.io/github/followers/tauqeerahmed0309?style=for-the-badge&logo=github&label=Followers&color=2563EB&labelColor=0B1120" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/tauqeerahmed0309?tab=repositories">
-    <img src="https://img.shields.io/github/stars/tauqeerahmed0309?style=for-the-badge&affiliations=OWNER&label=Stars&color=3B82F6&labelColor=0B1120" alt="GitHub stars"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=tauqeerahmed0309&style=for-the-badge&color=1D4ED8&label=PROFILE+VIEWS" alt="Profile views"/>
+  <br/>
 
-  <br/><br/>
-
-  <a href="https://github.com/tauqeerahmed0309?tab=repositories">
-    <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Software%20Engineering-1D4ED8?style=flat-square&labelColor=0B1120" alt="Technical focus"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-2563EB?style=flat-square&labelColor=0B1120" alt="Location"/>
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-3B82F6?style=flat-square&labelColor=0B1120" alt="Learning status"/>
+  [GitHub Profile](https://github.com/tauqeerahmed0309) · Bengaluru, India
 
 </div>
 
@@ -42,40 +22,21 @@
 
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="65%" valign="middle">
+I'm a Computer Science and Engineering student interested in software engineering, AI/ML, and solving real-world problems through code.
 
-I'm a **Computer Science and Engineering student and software developer** interested in building intelligent applications, solving engineering problems, and translating ideas into working software.
-
-My focus is on strengthening core computer science fundamentals while developing practical projects across software engineering and AI/ML.
-
-- 🔭 **Current focus:** AI-powered software projects
-- 🌱 **Learning:** Artificial Intelligence, Machine Learning, and Data Structures & Algorithms
-- 💻 **Languages:** C++, Python, JavaScript, Java, and SQL
+- 🔭 **Currently working on:** AI-powered software projects
+- 🌱 **Currently learning:** AI/ML and Data Structures & Algorithms
+- 💻 **Languages:** C++, Python, JavaScript, Java, SQL
 - 🧠 **Interests:** Intelligent systems, full-stack development, problem solving, and open source
-- 🎯 **Goal:** Become a strong software engineer and build impactful products
-- 🤝 **Collaboration:** Open to meaningful technical projects and open-source contributions
-- 📍 **Based in:** Bengaluru, India
+- 🎯 **Goal:** Become a strong software engineer and build impactful projects
+- 🤝 **Open to:** Technical collaborations and open-source projects
+- ⚡ **Fun fact:** I enjoy turning complex problems into working solutions
 
-    </td>
-    <td width="35%" align="center" valign="middle">
-
-<a href="https://github.com/tauqeerahmed0309">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauqeerahmed0309&layout=donut&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=C9D1D9" width="100%" alt="Programming language distribution"/>
-</a>
-
-<br/><br/>
-
-<strong>Building intelligent solutions through code.</strong>
-
-    </td>
-  </tr>
-</table>
+> *Build with curiosity. Solve with logic. Improve with consistency.*
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -95,14 +56,12 @@ My focus is on strengthening core computer science fundamentals while developing
 
 <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb&theme=dark" alt="SQLite, MySQL and MongoDB"/>
 
-**AI / ML & Data Science**
+**AI/ML & Data Science**
 
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="PyTorch and scikit-learn"/>
 
-<br/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 
 **Developer Tools**
 
@@ -117,17 +76,15 @@ My focus is on strengthening core computer science fundamentals while developing
 <div align="center">
 
 <a href="https://github.com/tauqeerahmed0309/reengage-env">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tauqeerahmed0309&repo=reengage-env&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&icon_color=3B82F6" width="49%" alt="ReEngage Environment repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tauqeerahmed0309&repo=reengage-env&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA" width="49%" alt="ReEngage Environment"/>
 </a>
 <a href="https://github.com/tauqeerahmed0309/smart-intersection-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tauqeerahmed0309&repo=smart-intersection-ai&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&icon_color=3B82F6" width="49%" alt="Smart Intersection AI repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tauqeerahmed0309&repo=smart-intersection-ai&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA" width="49%" alt="Smart Intersection AI"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/tauqeerahmed0309?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20All%20Projects-1D4ED8?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120" alt="Explore all projects"/>
-</a>
+<a href="https://github.com/tauqeerahmed0309?tab=repositories">Explore all repositories →</a>
 
 </div>
 
@@ -138,25 +95,24 @@ My focus is on strengthening core computer science fundamentals while developing
 <div align="center">
 
 <a href="https://github.com/tauqeerahmed0309">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=tauqeerahmed0309&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=tauqeerahmed0309&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub statistics"/>
 </a>
+
 <a href="https://github.com/tauqeerahmed0309">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauqeerahmed0309&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=C9D1D9" alt="Most used programming languages"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauqeerahmed0309&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=C9D1D9" alt="Most used programming languages"/>
 </a>
 
 <br/><br/>
 
 ### 🔥 Contribution Streak
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=tauqeerahmed0309&theme=tokyonight&hide_border=true&background=0B1120&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=93C5FD&dates=94A3B8" alt="GitHub contribution streak"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=tauqeerahmed0309&theme=tokyonight&hide_border=true&background=0B1120&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=93C5FD&dates=94A3B8" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
 ### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tauqeerahmed0309&bg_color=0B1120&color=93C5FD&line=3B82F6&point=60A5FA&area=true&area_color=1D4ED8&hide_border=true&radius=10&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tauqeerahmed0309&bg_color=0B1120&color=93C5FD&line=3B82F6&point=60A5FA&area=true&area_color=1D4ED8&hide_border=true&radius=10&custom_title=Contribution%20Activity" width="100%" alt="GitHub activity graph"/>
 
 </div>
 
@@ -169,7 +125,7 @@ My focus is on strengthening core computer science fundamentals while developing
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tauqeerahmed0309/tauqeerahmed0309/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tauqeerahmed0309/tauqeerahmed0309/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/tauqeerahmed0309/tauqeerahmed0309/output/github-contribution-grid-snake.svg" alt="Animated contribution snake — generated by GitHub Actions" width="100%"/>
+  <img src="https://raw.githubusercontent.com/tauqeerahmed0309/tauqeerahmed0309/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%"/>
 </picture>
 
 </div>
@@ -185,25 +141,68 @@ I'm interested in connecting with developers, exchanging ideas, and collaboratin
 <br/>
 
 <a href="https://github.com/tauqeerahmed0309">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120" alt="GitHub profile"/>
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
 **Let's build something useful.**
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,100:1D4ED8&height=145&section=footer&animation=fadeIn" width="100%" alt="Dark blue footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:2563EB&height=130&section=footer&animation=fadeIn" width="100%" alt="Dark blue footer"/>
 
   <sub>Designed with precision. Built with curiosity. Improved through consistency.</sub>
 
-  <br/><br/>
-
-  <sub>© Tauqeer Ahmed · <a href="https://github.com/tauqeerahmed0309">GitHub</a></sub>
-
 </div>
+
+<!--
+===============================================================
+CONTRIBUTION SNAKE SETUP
+===============================================================
+
+Create this file in the same profile repository:
+
+.github/workflows/snake.yml
+
+Paste the workflow below into that file, then commit it.
+The snake image will not appear until the workflow succeeds.
+
+-->
+
+```yaml
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: tauqeerahmed0309
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish snake images
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
