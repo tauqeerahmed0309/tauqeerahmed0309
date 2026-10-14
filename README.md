@@ -2,7 +2,7 @@
 
 # Tauqeer Ahmed
 
-**Computer Science & Engineering Student · Software Developer · AI/ML**
+**Computer Science & Engineering Student · Software Developer **
 
 Bengaluru, India · [GitHub](https://github.com/tauqeerahmed0309)
 
